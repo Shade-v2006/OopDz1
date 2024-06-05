@@ -37,6 +37,8 @@ public class ProductMain {
         System.out.println(vm1.getProducts());
 
         vm1.getProduct("Чай", 100, 90);
+        vm1.getProduct("Чай", 100, 90);
+
         System.out.println();
 
         System.out.println(vm1.getProducts());
